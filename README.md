@@ -1,4 +1,4 @@
-#### A practice in generics: Sets are fun!
+### A practice in generics: Sets are fun!
 
 Insert, delete or iterate through elements.
 
